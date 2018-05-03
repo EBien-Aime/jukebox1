@@ -1,0 +1,18 @@
+body{
+  background-color: thistle;
+  background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Leafy-green-ferns-images-PIC-WPB005210.jpg");
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
+.selector{
+/* border:2px solid chartreuse; */
+margin-top: 250px;
+margin-left: 25%;
+display: inline-block;
+}
+
+#text{
+  color: white;
+  margin-left: 100px;
+}
